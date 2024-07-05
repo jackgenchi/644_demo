@@ -1,2 +1,2 @@
 # 644_demo
-demo repo for 644
+This is a blank repository to test creating repositories for SDCCD class COMP 644 Server Side Web Development.
